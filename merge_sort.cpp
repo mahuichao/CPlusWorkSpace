@@ -1,4 +1,4 @@
-// 归并法，一个分解，一个合并
+// 归并法，一个分解，一个合并,外加一个随机测试
 #include <iostream>
 #include <vector>
 #include <limits>
